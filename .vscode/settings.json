@@ -1,0 +1,30 @@
+{
+    "favorites.resources": [
+        {
+            "filePath": "class\\2022-08",
+            "group": "Default"
+        },
+        {
+            "filePath": "_quarto.yml",
+            "group": "Default"
+        },
+        {
+            "filePath": "p\\log.qmd",
+            "group": "Default"
+        },
+        {
+            "filePath": "p\\impossible-list.qmd",
+            "group": "Default"
+        }
+    ],
+    "PandocCiter.DefaultBib": "./assets/other/references.bib",
+    "PandocCiter.CitationFormat": [
+        "author",
+        "title",
+        "journal",
+        "publisher",
+        "booktitle",
+        "year"
+    ],
+    "favorites.sortOrder": "DESC"
+}

@@ -1,0 +1,18 @@
+---
+date: 2022-08-30T10:08:19+0800
+title: JSK's Now Page
+# subtitle: A record of activities.
+description: A record of activities.
+author: Je Sian Keith Herman
+image: "../assets/images/maarten-van-den-heuvel-8EzNkvLQosk-unsplash.jpg"
+image-alt: A photo of colorful records in a shelf by Maarten van den Heuvel on Unsplash
+categories: ["log"]
+title-block-banner-color: "#FEFEFE"
+title-block-banner: "../assets/images/maarten-van-den-heuvel-8EzNkvLQosk-unsplash-dim.jpg"
+citation: false
+comments: false
+---
+
+## 2022-09 September
+
+Hi there.

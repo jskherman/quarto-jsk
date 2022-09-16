@@ -1,0 +1,93 @@
+---
+title: "JSK Herman"
+image: "assets/images/half-profile.jpg"
+about:
+  template: trestles #jolla, trestles, solana, marquee, broadside
+  links:
+    - icon: twitter
+      text: Twitter
+      aria-label: Twitter
+      href: https://twitter.com/jskherman
+    - icon: linkedin
+      text: LinkedIn
+      aria-label: LinkedIn
+      href: https://linkedin.com/in/jskherman
+    - icon: github
+      text: GitHub
+      aria-label: GitHub
+      href: https://github.com/jskherman
+    # (additional links excluded for brevity)
+comments: false
+citation: false
+reference-location: document
+---
+
+Hi there! Welcome to my weblog. 👋 <br>
+
+I'm [Je Sian Keith Herman](#firstname). This is the place where I share my thoughts, tools, interests, projects, showcases, experiences, etc. I am currently a 4th year student at [Bicol University][BU] studying [Chemical Engineering][ChE] and unconfirmed impostor (sus).
+
+I like coding and writing on the side[^1] when I have free time. My [blog](/blog.qmd) is one source where you can find most of my up-to-date written content.
+
+On an unrelated note, I like iced tea 🍹, iced coffee ☕, and ice cream 🍨 in no particular order.
+
+> If you're looking for what I am up to these days, check out my **[Now page](/p/now.qmd)**.
+
+## FAQ
+
+::: {.callout-tip collapse="true"}
+
+### Fancy some background music while you're here?
+
+Try this: <br/>
+<audio controls><source src="https://res.cloudinary.com/jskherman/video/upload/v1641875513/Website/isekai_shokudou-main_ost.mp3" type="audio/mpeg" name="Restaurant to Another World (Isekai Shokudou) Main Theme">Your browser does not support the audio html element.</audio>
+:::
+
+::: {.callout-tip collapse="true"}
+
+### How do you pronounce your first name?
+
+My first name "Je Sian Keith" is pronounced as **`/ʤi ʃan kiːθ/`** (ji shan kith).
+:::
+
+::: {.callout-tip collapse="true"}
+
+### What is your horoscope?
+It’s Gemini.
+:::
+
+::: {.callout-tip collapse="true"}
+
+### Hotel?
+Trivago[^2]
+:::
+
+## Contact Me
+
+Want to have a chat with me? Feel free to drop a DM. <!-- I am also open to collaborations and opportunities. -->
+
+[^1]: I am not a professional writer. I am just a guy who likes to write.
+
+
+ 
+These are the platforms[^3] you can find me on:
+
+- Twitter: [\@jskherman][twitter]
+- LinkedIn: [linkedin.com/in/jskherman][linkedin]
+
+You can also message me directly via the [contact form](contact.qmd).
+
+<!-- Footnotes -->
+
+[^1]: This blog is an example project.
+  I am not a professional writer nor a programmer. I am just a guy who likes to write and tinker.
+[^2]: lol #NotSponsored. I am *not* affiliated with Trivago.
+[^3]: NOTE: I'm more active on Twitter, so you'll definitely want to ping me there.
+
+<!-- Reference Links -->
+
+[twitter]: https://twitter.com/jskherman
+[linkedin]: https://www.linkedin.com/in/jskherman
+[github]: https://github.com/jskherman
+[TWGOK]: https://myanimelist.net/anime/8525/Kami_nomi_zo_Shiru_Sekai
+[BU]: https://bicol-u.edu.ph/
+[ChE]: https://www.icheme.org/education/whynotchemeng/

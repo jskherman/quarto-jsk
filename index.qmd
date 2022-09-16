@@ -1,0 +1,27 @@
+---
+title: "JSK's Notes"
+subtitle: "Just a random collection of notes, thoughts, tools, and links."
+listing:
+  - id: blog
+    contents: blog/**/*.qmd
+    type: grid
+    fields: [image, date, file-modified, title, subtitle, categories, reading-time]
+    sort: "date desc"
+    # sort-ui: false
+    # filter-ui: false
+    page-size: 3
+page-layout: full
+title-block-banner: false
+comments: false
+citation: false
+toc: false
+---
+
+## Blog Posts
+
+::: {#blog}
+:::
+
+<a href="../blog.html"> <button type="button" class="btn btn-primary float-end btn-sm">See all blog posts &gt;</button></a>
+
+<br/><br/>

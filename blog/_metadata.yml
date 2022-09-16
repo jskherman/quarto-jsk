@@ -1,0 +1,33 @@
+# title-block-banner: true
+license: ""
+citation: true
+
+author:
+  - name: "Je Sian Keith Herman"
+    url: https://jskherman.com
+    # orcid: 0000-0002-3281-1292
+
+# Table of contents
+toc: true
+# toc-title: Table of Contents
+# toc-location: left
+
+# Code Execution
+# execute:
+#   echo: true
+#   message: true
+#   warning: true
+# freeze: true
+
+comments:
+  giscus:
+    repo: jskherman/quarto-jsk
+    repo-id:
+    category: Announcements
+    category-id:
+    mapping: pathname
+    reactionsEnabled: 1
+    emitMetadata: 0
+    input-position: top
+    loading: lazy
+    theme: preferred_color_scheme

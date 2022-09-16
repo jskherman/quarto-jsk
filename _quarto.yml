@@ -1,0 +1,105 @@
+# Project Options
+project:
+  type: website
+  preview:
+    port: 8080
+    browser: true
+
+  # render:
+  #   - "*.qmd"
+  #   - "!ignored.qmd"
+  #   - "!ignored-dir/"
+
+# Website Options
+website:
+  site-url: https://jskherman.com
+  title: "JSK's Notes"
+  # reader-mode: true
+  cookie-consent:
+    type: express
+  # google-analytics:
+  page-navigation: true
+
+  search:
+    location: navbar
+    type: overlay
+    copy-button: true
+
+  open-graph:
+    locale: en_US
+    site-name: "Je Sian Keith Herman"
+    image: assets/images/og-image.png
+  twitter-card:
+    creator: "@jskherman"
+    image: assets/images/og-image.png
+
+  # Navigation Bar
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+      - text: Blog
+        href: blog.qmd
+      - text: Neat Pages
+        menu:
+          - text: Now
+            href: p/now.qmd
+          - text: Impossible List
+            href: p/impossible-list.qmd
+        # menu:
+        #   -
+
+    right:
+      - text: Contact
+        href: contact.qmd
+      - icon: twitter
+        aria-label: Twitter
+        href: https://twitter.com/jskherman
+      - icon: linkedin
+        aria-label: LinkedIn
+        href: https://linkedin.com/in/jskherman
+      - icon: github
+        href: https://github.com/jskherman
+        aria-label: GitHub
+      - icon: rss
+        href: /blog.xml
+        aria-label: RSS Feed
+
+  # Sidebar
+  # sidebar:
+  #   style: docked
+  #   search: false
+  #   contents:
+  #     - section: "Main Pages"
+  #       contents:
+  #         - index.qmd
+  #         - about.qmd
+
+# Publishing
+format:
+  html:
+    theme:
+      light: [litera, assets/css/ember.scss]
+      # dark: [darkly, assets/css/ember.scss] #vapor
+    mainfont: "Atkinson Hyperlegible"
+    monofont: "Fira Code"
+    fontsize: 1rem
+    css: styles.css
+    bibliography: assets/other/references.bib
+    csl: assets/other/apa.csl
+    toc: true
+    code-fold: true
+    code-line-numbers: true
+    code-overflow: scroll
+    code-copy: true
+    reference-location: margin
+    citation-location: document #margin
+    fig-cap-location: margin
+    citation: true
+    # google-scholar: true
+    # include-in-header:
+    #   - "assets/html/includes_header.html"
+    # include-after-body:
+    #   - "assets/html/includes_body.html"

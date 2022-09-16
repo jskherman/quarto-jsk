@@ -1,0 +1,21 @@
+---
+title: "Blog Posts"
+listing:
+  - id: blog
+    contents: "blog/**/*.qmd"
+    type: default
+    fields: [image, date,file-modified, title, subtitle, description, categories, reading-time]
+    sort: "date desc"
+    # sort-ui: false
+    # filter-ui: false
+    page-size: 10
+    categories: true
+    feed: true
+page-layout: full
+title-block-banner: false
+comments: false
+citation: false
+---
+
+::: {#blog}
+:::

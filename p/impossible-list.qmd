@@ -1,0 +1,71 @@
+---
+date: 2022-08-31T21:08:48+0800
+title: Impossible List
+subtitle: Ad astra per aspera. A list of experiences, challenges, goals.
+# description: A list of experiences, challenges, goals.
+author: Je Sian Keith Herman
+image: "../assets/images/maarten-van-den-heuvel-8EzNkvLQosk-unsplash.jpg"
+image-alt: A photo of colorful records in a shelf by Maarten van den Heuvel on Unsplash
+categories: ["log"]
+# title-block-banner-color: "#FEFEFE"
+# title-block-banner: "../assets/images/maarten-van-den-heuvel-8EzNkvLQosk-unsplash-dim.jpg"
+citation: false
+comments: false
+---
+
+> "The **Impossible List**™ is NOT a bucket list... This list of impossible things contains all the things I ever thought I couldn’t do because it was 'impossible'..."[^a]<br/><br/>
+> "...Put simply, the Impossible List™ is an ever-evolving list of experiences that build upon each other, help others as well as yourself, and implore you to take action..."[^b]
+
+[^a]: Source: [IMPOSSIBLE®](https://impossiblehq.com/impossible-list/#:~:text=The%20impossible%20list%20is%20NOT%20a%20bucket%20list.)
+[^b]: Source: [College Info Geek](https://collegeinfogeek.com/about/meet-the-author/my-impossible-list/#:~:text=the%20impossible%20list%20is%20an%20ever%2Devolving%20list%20of%20experiences%20that%20build%20upon%20each%20other%2C%20help%20others%20as%20well%20as%20yourself%2C%20and%20implore%20you%20to%20take%20action.%20This%20is%20mine%2C%20which%20is%2C%20of%20course%2C%20ever%2Devolving.)
+
+
+## Last 5 Achievements
+- [[2022-08-06]] [Achievement: "We're in the Nationals"](https://www.facebook.com/photo.php?fbid=426822102808547) — Join a national competition.
+- [[2022-07-07]] [Achievement: "Budding Tourist"](https://twitter.com/jskherman/status/1546436431220195328) — See and go to another country.
+- [[2022-07-07]] Achievement: "Cloud Nine" — Ride an airplane.
+- [[2022-07-07]] [Achievement: "On the World Stage"](https://www.facebook.com/bangkokbusinesschallenge/videos/591718025877563) — Join an international competition.[^1]
+- [[2020-02-02]] Achievement: "Web Surfer to Creator" — Publish a website.
+
+## The Goals
+
+### Finance
+
+- ~~**[01/50]** Save up `100.00 USD` in my emergency fund.~~
+    - ~~**[02/50]** Save up `125.00 USD`.~~
+    - ~~**[03/50]** Save up `156.25 USD`.~~
+    - ~~**[04/50]** Save up `195.31 USD`.~~
+    - ~~**[05/50]** Save up `244.14 USD`.~~
+    - ~~**[06/50]** Save up `305.18 USD`.~~
+    - ~~**[07/50]** Save up `381.47 USD`.~~
+    - **[08/50]** Save up `476.84 USD`.
+    - **[09/50]** Save up `596.05 USD`.
+    - **[10/50]** Save up `745.00 USD`.
+    - **[11/50]** Save up `931.32 USD`.
+    - **[12/50]** Save up `1,164.15 USD`.
+    - **[13/50]** Save up `1,455.19 USD`.
+    - **[14/50]** Save up `1,818.99 USD`.
+    - **[15/50]** Save up `2,273.74 USD`.
+
+### Professional
+- Learn how to program in Python
+- ~~[[2022-08-06]] [Achievement: "We're in the Nationals"](https://www.facebook.com/photo.php?fbid=426822102808547) — Join a national competition.~~
+    - ~~[[2022-07-07]] [Achievement: "On the World Stage"](https://www.facebook.com/bangkokbusinesschallenge/videos/591718025877563) — Join an international competition.[^1]~~
+- ~~[[2020-02-02]] Achievement: "Web Surfer to Creator" — Publish a website.~~
+
+### Hobby & Leisure
+<!---
+- Create a school that use cutting-edge, well-tested, and proven educational psychology research to produce excellent learning outcomes and advance base human capabilities.
+    - Propose a new model and policy of education based on tech/skill-trees.
+    - Implement gamification, adaptive, and personalized education.
+--->
+- Buy a physical copy of "The World God Only Knows" manga by Tamiki Wakaki.
+    - Buy a physical copy of the "Tonikaku Kawaii" manga by Kenjiro Hata.
+    - Buy a physical copy of the "Komi-san wa Komyushou Desu" manga by Tomohito Oda.
+- ~~[[2022-07-07]] Achievement: "Cloud Nine" — Ride an airplane.~~
+    - ~~[[2022-07-07]] [Achievement: "Budding Tourist"](https://twitter.com/jskherman/status/1546436431220195328) — See and go to another country.~~
+
+### Health
+- ?
+
+[^1]: Rode on an Airbus A330 with Cebu Pacific Airlines on a round-trip flight from Manila, Philippines to Bangkok, Thailand in order to compete in the [SCG Bangkok Business Challenge @ Sasin 2022](https://bbc.sasin.edu/2022)

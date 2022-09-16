@@ -1,0 +1,22 @@
+# Folders
+public/
+.quarto/
+_extensions/
+
+
+# Common Binary Files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pdf
+*.docx
+*.xlsx
+*.pptx
+
+# Fonts
+
+/.quarto/
+
+# Firebase
+*.cache
