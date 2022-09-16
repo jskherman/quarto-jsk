@@ -30,7 +30,7 @@ citation: false
 reference-location: document
 ---
 
-Hi there! Welcome to my weblog. 👋 <br>
+{{< animate bounceInDown "Hi there! Welcome to my weblog. 👋" <duration=200ms> >}} <br>
 
 I'm [Je Sian Keith Herman](#firstname). This is the place where I share my thoughts, tools, interests, projects, showcases, experiences, etc. I am currently a 4th year student at [Bicol University][BU] studying [Chemical Engineering][ChE] and unconfirmed impostor (sus).
 
@@ -69,7 +69,7 @@ It’s Gemini.
 Trivago[^2]
 :::
 
-## Contact Me
+## {{< animate tada "Contact" <duration=500ms> >}} Me
 
 Want to have a chat with me? Feel free to drop a DM. <!-- I am also open to collaborations and opportunities. -->
 

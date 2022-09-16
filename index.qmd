@@ -16,7 +16,8 @@ citation: false
 toc: false
 ---
 
-## Blog Posts
+## {{< animate bounceIn "Blog Posts" >}}
+
 
 ::: {#blog}
 :::
