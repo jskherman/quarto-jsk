@@ -1,15 +1,11 @@
 {
     "favorites.resources": [
         {
-            "filePath": "class\\2022-08",
-            "group": "Default"
-        },
-        {
             "filePath": "_quarto.yml",
             "group": "Default"
         },
         {
-            "filePath": "p\\log.qmd",
+            "filePath": "p\\new.qmd",
             "group": "Default"
         },
         {

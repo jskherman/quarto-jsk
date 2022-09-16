@@ -16,6 +16,14 @@ about:
       text: GitHub
       aria-label: GitHub
       href: https://github.com/jskherman
+    # - icon: puzzle
+    #   text: ORCID
+    #   aria-label: ORCID
+    #   href: https://orcid.org/0000-0002-3281-1292
+    - icon: person-circle
+      text: VNDB
+      aria-label: VNDB
+      href: https://vndb.org/u216922
     # (additional links excluded for brevity)
 comments: false
 citation: false
@@ -64,9 +72,6 @@ Trivago[^2]
 ## Contact Me
 
 Want to have a chat with me? Feel free to drop a DM. <!-- I am also open to collaborations and opportunities. -->
-
-[^1]: I am not a professional writer. I am just a guy who likes to write.
-
 
  
 These are the platforms[^3] you can find me on:

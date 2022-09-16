@@ -12,6 +12,7 @@ project:
 
 # Website Options
 website:
+  favicon: /assets/images/icon.png
   site-url: https://jskherman.com
   title: "JSK's Notes"
   # reader-mode: true
@@ -19,6 +20,8 @@ website:
     type: express
   # google-analytics:
   page-navigation: true
+  repo-url: https://github.com/jskherman/quarto-jsk
+  repo-actions: [edit]
 
   search:
     location: navbar
@@ -35,6 +38,8 @@ website:
 
   # Navigation Bar
   navbar:
+    logo: "/assets/images/icon.png"
+    logo-href: /
     left:
       - text: Home
         href: index.qmd
@@ -42,14 +47,16 @@ website:
         href: about.qmd
       - text: Blog
         href: blog.qmd
-      - text: Neat Pages
-        menu:
-          - text: Now
-            href: p/now.qmd
-          - text: Impossible List
-            href: p/impossible-list.qmd
-        # menu:
-        #   -
+      - text: Now
+        href: p/now.qmd
+      - text: Impossible List
+        href: p/impossible-list.qmd
+      # - text: Nifty Pages
+      #   menu:
+      #     - text: Now
+      #       href: p/now.qmd
+      #     - text: Impossible List
+      #       href: p/impossible-list.qmd
 
     right:
       - text: Contact
@@ -77,11 +84,24 @@ website:
   #         - index.qmd
   #         - about.qmd
 
+  page-footer:
+    center: "Copyright © 2020-2022 Je Sian Keith Ll. Herman. All Rights Reserved."
+    left: |
+      Powered by [Quarto](https://quarto.org) and [Netlify](https://netlify.com). <br>
+      [Privacy Policy](/p/privacy.qmd) and [Terms of Service](/p/tos.qmd).
+    right:
+      - icon: dot
+        href: https://waitbutwhy.com/you-clicked-the-turtle
+      - icon: hexagon
+        href: https://youtu.be/thOifuHs6eY
+      - icon: github
+        href: https://github.com/jskherman/quarto-jsk/
+
 # Publishing
 format:
   html:
     theme:
-      light: [litera, assets/css/ember.scss]
+      [litera, assets/css/ember.scss]
       # dark: [darkly, assets/css/ember.scss] #vapor
     mainfont: "Atkinson Hyperlegible"
     monofont: "Fira Code"
@@ -103,3 +123,4 @@ format:
     #   - "assets/html/includes_header.html"
     # include-after-body:
     #   - "assets/html/includes_body.html"
+    link-external-newwindow: true

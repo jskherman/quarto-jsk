@@ -9,10 +9,9 @@ listing:
     sort: "date desc"
     # sort-ui: false
     # filter-ui: false
-    page-size: 3
+    page-size: 4
 page-layout: full
 title-block-banner: false
-comments: false
 citation: false
 toc: false
 ---

@@ -1,8 +1,9 @@
 # Folders
 _site/
 public/
-.quarto/
 _extensions/
+.quarto/
+.vscode/
 
 
 # Common Binary Files
