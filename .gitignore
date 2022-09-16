@@ -1,7 +1,7 @@
 # Folders
 _site/
 public/
-_extensions/
+# _extensions/
 .quarto/
 .vscode/
 
