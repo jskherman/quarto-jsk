@@ -34,15 +34,5 @@ comments:
 filters:
   - lightbox
   - code-filename
-  - social-share
+  - nutshell
 lightbox: auto
-share:
-  permalink: "https://jskherman.com/"
-  description: "JSK's Notes"
-  twitter: true
-  linkedin: true
-  reddit: true
-  facebook: true
-  email: true
-  stumble: false
-  tumblr: false
