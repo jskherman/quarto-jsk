@@ -17,8 +17,6 @@ keywords: ["learning how to learn", "note-taking", "spaced repetition", "study",
 
 Say you have this ambitious goal of learning a difficult subject like calculus by reading a textbook. How are you going to go about it? When you think of doing such a project, you feel it is large and quite daunting. You do not know where to start. Luckily, you have taken the popular online course “[Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/)” on Coursera and have already the basic ideas down. So, let us start putting those together for the project and let me show you how I would do that.
 
-{{< adsense 9155886126 >}}
-
 ## Planning
 
 ### Break Down the Project into Smaller Actionable Tasks
