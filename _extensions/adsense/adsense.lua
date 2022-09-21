@@ -1,7 +1,7 @@
 function adsense(args, kwargs, meta)
     -- adsense creds vars
     local inArticleSlot = pandoc.utils.stringify(args[1])
-    local client = pandoc.utils.stringify(meta["website.adsense-client"])
+    local client = pandoc.utils.stringify(meta["adsense"])
 
     -- Assemble script to be returned
     local adsense = '<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>'
