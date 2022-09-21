@@ -34,10 +34,10 @@ comments: false
 - ~~**[01/50]** Save up `100.00 USD` in my emergency fund.~~
     - ~~**[02/50]** Save up `125.00 USD`.~~
     - ~~**[03/50]** Save up `156.25 USD`.~~
-    - ~~**[04/50]** Save up `195.31 USD`.~~
-    - ~~**[05/50]** Save up `244.14 USD`.~~
-    - ~~**[06/50]** Save up `305.18 USD`.~~
-    - ~~**[07/50]** Save up `381.47 USD`.~~
+    - **[04/50]** Save up `195.31 USD`.
+    - **[05/50]** Save up `244.14 USD`.
+    - **[06/50]** Save up `305.18 USD`.
+    - **[07/50]** Save up `381.47 USD`.
     - **[08/50]** Save up `476.84 USD`.
     - **[09/50]** Save up `596.05 USD`.
     - **[10/50]** Save up `745.00 USD`.

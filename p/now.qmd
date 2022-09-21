@@ -13,14 +13,12 @@ citation: false
 comments: false
 ---
 
-This is a **"now page"**. If you have your own site, [you could make one](http://nownownow.com/about) too.
-
-::: {.column-margin}
-For past updates [see this page](past.qmd).
-:::
+This is a **"now page"**. If you have your own site, [you could make one](http://nownownow.com/about) too.[^1]
 
 ---
 
 - `2022-07-08` I participated as a semi-finalist in the [SCG Bangkok Business Challenge @ Sasin 2022](https://bbc.sasin.edu/2022) at Bangkok, Thailand. I also presented at the [60-second pitch round (01:35:35)](https://fb.watch/ehcWDuPn5L/) for the Opening Reception.
 
 - `2022-07-29` I joined the National Nutrional Council's first ever Nutri-Hackathon in a team of four and [won first place](https://www.facebook.com/photo.php?fbid=426822102808547) with them.
+
+[^1]: For past updates [see this page](past.qmd).
