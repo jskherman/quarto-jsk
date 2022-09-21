@@ -11,7 +11,7 @@ project:
   #   - "!ignored.qmd"
 
   pre-render: prerender.py
-  post-render: prerender.py
+  post-render: postrender.py
 
 # Website Options
 website:
