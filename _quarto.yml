@@ -20,9 +20,12 @@ website:
   title: "JSK's Notes"
   reader-mode: true
   page-navigation: true
-  google-analytics: "#GOOGLE_ANALYTICS_ID"
+  google-analytics:
+    tracking-id: G-TF125HHLMP
+    anonymize-ip: true
   cookie-consent:
     type: implied
+    policy-url: /p/privacy.html
   repo-url: https://github.com/jskherman/quarto-jsk
   # repo-actions: [edit]
 
@@ -89,9 +92,9 @@ website:
   page-footer:
     center: |
       Copyright © 2020-2022 Je Sian Keith Ll. Herman. <br>
-      Powered by [Quarto](https://quarto.org) and [Netlify](https://netlify.com).
-
-    # [Privacy Policy](/p/privacy.qmd) and [Terms of Service](/p/tos.qmd).
+      [Privacy Policy](/p/privacy.qmd).
+    # Powered by [Quarto](https://quarto.org) and [Netlify](https://netlify.com).
+    # [Privacy Policy](/p/privacy.qmd).
 
     right:
       - icon: dot
@@ -130,5 +133,5 @@ format:
     link-external-newwindow: true
 
 adsense:
-  client: "#ADSENSE_CLIENT"
-  slot: "#ADSENSE_SLOT"
+  client: ca-pub-1137783971149737
+  slot: 9155886126
