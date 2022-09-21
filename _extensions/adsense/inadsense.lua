@@ -4,7 +4,6 @@ function inadsense(args, kwargs, meta)
     -- local adclient = pandoc.utils.stringify(args[2])
     local adclient = pandoc.utils.stringify(meta['adsense.client'])
     local inArticleSlot = pandoc.utils.stringify(meta['adsense.slot'])
-    local consent = pandoc.utils.stringify(meta['adsense.consent'])
 
     -- Assemble script to be returned
     local adscript = '<script async type="text/plain" cookie-consent="targeting" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>'
