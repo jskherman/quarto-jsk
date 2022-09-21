@@ -6,9 +6,11 @@ project:
     browser: true
 
   render:
+    - "*.qmd"
     - "!docs/"
-  #   - "*.qmd"
   #   - "!ignored.qmd"
+
+  # pre-render: prepare.py
 
 # Website Options
 website:
@@ -126,3 +128,5 @@ format:
     # include-after-body:
     #   - "assets/html/includes_body.html"
     link-external-newwindow: true
+
+adsense: {{< env ADSENSE_CLIENT >}}
