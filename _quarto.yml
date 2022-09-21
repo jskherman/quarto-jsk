@@ -21,7 +21,7 @@ website:
   reader-mode: true
   page-navigation: true
   google-analytics:
-    tracking-id: G-TF125HHLMP
+    tracking-id: "#GOOGLE_ANALYTICS_ID"
     anonymize-ip: true
   cookie-consent:
     type: implied
@@ -133,5 +133,5 @@ format:
     link-external-newwindow: true
 
 adsense:
-  client: ca-pub-1137783971149737
-  slot: 9155886126
+  client: "#ADSENSE_CLIENT"
+  slot: "#ADSENSE_SLOT"
