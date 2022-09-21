@@ -22,5 +22,14 @@
         "booktitle",
         "year"
     ],
-    "favorites.sortOrder": "DESC"
+    "favorites.sortOrder": "DESC",
+    "Lua.diagnostics.globals": [
+        "pandoc",
+        "quarto"
+    ],
+    "cSpell.words": [
+        "ADSENSE",
+        "dotenv"
+    ],
+    "yaml.format.enable": false
 }
