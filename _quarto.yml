@@ -11,7 +11,7 @@ project:
   #   - "!ignored.qmd"
 
   pre-render: prerender.py
-  post-render: postrender.py
+  # post-render: postrender.py
 
 # Website Options
 website:
@@ -25,7 +25,6 @@ website:
     type: implied
   repo-url: https://github.com/jskherman/quarto-jsk
   # repo-actions: [edit]
-  # adsense-client:
 
   search:
     location: navbar
@@ -130,4 +129,6 @@ format:
     #   - "assets/html/includes_body.html"
     link-external-newwindow: true
 
-adsense: #ADSENSE_CLIENT
+adsense:
+  client: "#ADSENSE_CLIENT"
+  slot: "#ADSENSE_SLOT"
