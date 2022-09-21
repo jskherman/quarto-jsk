@@ -1,0 +1,6 @@
+format:
+  docx:
+    toc: true
+    number-sections: true
+    code-line-numbers: true
+    reference-doc: custom-ref-doc.docx

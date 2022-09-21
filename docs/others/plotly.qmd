@@ -1,0 +1,27 @@
+---
+date: 2022-09-21T17:27:14+0800
+title: Testing Plotly Output from Quarto
+# subtitle: 
+# description: 
+# author: 
+# image: 
+# image-alt: 
+# categories:
+format:
+    hugo:
+        standalone: true
+---
+
+## Heading 1
+
+Hello world. Here's an attempt to output a plotly chart:
+
+```{python}
+import plotly.express as px
+df = px.data.wind()
+fig = px.scatter_polar(df, r="frequency", theta="direction",
+                       color="strength", symbol="strength", size="frequency",
+                       color_discrete_sequence=px.colors.sequential.Plasma_r)
+fig.write_json("polar_chart.json")
+```
+

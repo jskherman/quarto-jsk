@@ -1,0 +1,6 @@
+format:
+  revealjs:
+    menu: true
+    overview: true
+    chalkboard: true
+    # multiplex: true

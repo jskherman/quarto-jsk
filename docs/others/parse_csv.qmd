@@ -1,0 +1,129 @@
+---
+title: Parsing CSVs
+date: '2022-09-17T11:20:46+0800'
+format:
+  html:
+    self-contained: true
+jupyter: python3
+---
+
+```{python}
+import pandas as pd
+from datetime import datetime
+from IPython.display import display, Markdown, Latex
+```
+
+```{python}
+df = pd.read_csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vTCthsmMlLvDTBcZA_7KqQ1cTbuRgcIzoof-FMRdMwaQ0vCArwDecwVDPrTGB2A8MDd2CHNzQw6KtpW/pub?gid=1890379088&single=true&output=csv")
+df.head()
+```
+
+```python
+# Print Markdown
+display(Markdown(df["Remarks"][0]))
+```
+
+Data Sanitation and Conversions
+
+```{python}
+df["Entry Timestamp"] = pd.to_datetime(df["Entry Timestamp"])
+df["Timestamp"] = pd.to_datetime(df["Timestamp"])
+```
+
+```{python}
+def listify_text(txt):
+  """Transform comma-separated text string to list"""
+  # Remove redundant white space and split by comma
+  txt = " ".join(txt.split()).lower().strip().split(",")  
+
+  # Initialize placeholder list
+  lst = []
+  for item in txt:
+    # Remove extra white space
+    item = " ".join(item.split()).strip()
+    # save to temp list
+    lst.append(item)
+  return lst
+```
+
+```{python}
+# Transform "Activities" strings to proper lists
+df_lst = []
+for acts in df["Activities"]:
+  acts = listify_text(acts)
+  df_lst.append(acts)
+df["Activities"] = df_lst
+df_lst = []
+```
+
+```{python}
+# Transform "Weather" strings to proper lists
+df_lst = []
+for weather in df["Weather"]:
+  weather = listify_text(weather)
+  df_lst.append(weather)
+df["Weather"] = df_lst
+df_lst = []
+```
+
+```{python}
+# df["Remarks"][1] 
+df
+```
+
+Date Field
+
+```{python}
+dates = []
+for dt in df["Entry Timestamp"]:
+  dates.append(dt.date())
+df["Date"] = dates
+```
+
+Time Field
+
+```{python}
+times = []
+for dt in df["Entry Timestamp"]:
+  times.append(dt.time())
+df["Time"] = times
+```
+
+Hour Field
+
+```{python}
+hrs = []
+for dt in df["Entry Timestamp"]:
+  hrs.append(dt.hour+(dt.minute/60))
+df["Hour"] = hrs
+```
+
+```{python}
+days = []
+for dt in df["Entry Timestamp"]:
+  weekday = dt.isoweekday()
+  if weekday == 1:
+    days.append("Mon")
+  elif weekday == 2:
+    days.append("Tue")
+  elif weekday == 3:
+    days.append("Wed")
+  elif weekday == 4:
+    days.append("Thu")
+  elif weekday == 5:
+    days.append("Fri")
+  elif weekday == 6:
+    days.append("Sat")
+  elif weekday == 7:
+    days.append("Sun")
+df["Weekday"] = days
+```
+
+```{python}
+df["Mood"] = ((df["Morale"] - 4) * 10)
+```
+
+```{python}
+df
+```
+

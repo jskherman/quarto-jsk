@@ -1,0 +1,15 @@
+format:
+  pdf:
+    documentclass: scrartcl
+    papersize: a4
+    fontfamily: charter
+    fontenc: T1
+    code-line-numbers: true
+    reference-location: margin
+  # latex:
+  #   documentclass: scrartcl
+  #   papersize: a4
+
+toc: true
+toc-title: Contents
+number-sections: true
