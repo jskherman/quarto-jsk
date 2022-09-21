@@ -10,7 +10,8 @@ project:
     - "!docs/"
   #   - "!ignored.qmd"
 
-  # pre-render: prepare.py
+  pre-render: prerender.py
+  post-render: prerender.py
 
 # Website Options
 website:
@@ -129,4 +130,4 @@ format:
     #   - "assets/html/includes_body.html"
     link-external-newwindow: true
 
-adsense: {{< env ADSENSE_CLIENT >}}
+adsense: #ADSENSE_CLIENT
