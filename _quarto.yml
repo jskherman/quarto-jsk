@@ -16,11 +16,11 @@ project:
 # Website Options
 website:
   favicon: /assets/images/icon.png
-  site-url: https://jskherman.com
+  site-url: https://www.jskherman.com
   title: "JSK's Notes"
   reader-mode: true
   page-navigation: true
-  # google-analytics:
+  google-analytics: "#GOOGLE_ANALYTICS_ID"
   cookie-consent:
     type: implied
   repo-url: https://github.com/jskherman/quarto-jsk
