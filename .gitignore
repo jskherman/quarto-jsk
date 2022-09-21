@@ -5,6 +5,9 @@ public/
 .quarto/
 .vscode/
 
+# Quarto local environment vars
+/_*.local
+
 
 # Common Binary Files
 *.png
