@@ -1,0 +1,6 @@
+title: Google Adsense Support
+author: Je Sian Keith Herman
+version: 0.0.1
+contributes:
+  shortcodes:
+    - adsense.lua
