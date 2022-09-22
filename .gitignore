@@ -14,6 +14,7 @@ public/
 *.png
 *.jpg
 *.jpeg
+*.webp
 *.gif
 *.pdf
 *.docx
