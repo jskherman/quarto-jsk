@@ -1,6 +1,6 @@
 ---
 title: "JSK Herman"
-image: "assets/images/half-profile.jpg"
+image: "assets/images/half-profile.webp"
 about:
   template: trestles #jolla, trestles, solana, marquee, broadside
   links:

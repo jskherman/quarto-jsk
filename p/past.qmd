@@ -4,11 +4,11 @@ title: "JSK's Past"
 # subtitle: A record of activities.
 description: A record of past activities (aka the Now page archives).
 author: Je Sian Keith Herman
-image: "../assets/images/maarten-van-den-heuvel-8EzNkvLQosk-unsplash-dim.jpg"
+image: "../assets/images/maarten-van-den-heuvel-8EzNkvLQosk-unsplash-dim.webp"
 image-alt: A photo of colorful records in a shelf by Maarten van den Heuvel on Unsplash
 categories: ["log"]
 title-block-banner-color: "#FEFEFE"
-title-block-banner: "../assets/images/maarten-van-den-heuvel-8EzNkvLQosk-unsplash-dim.jpg"
+title-block-banner: "../assets/images/maarten-van-den-heuvel-8EzNkvLQosk-unsplash-dim.webp"
 citation: false
 comments: false
 margin-header: |

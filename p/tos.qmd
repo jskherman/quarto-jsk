@@ -4,11 +4,11 @@ title: "Terms of Service Agreement"
 # subtitle: "Terms of Service Agreement for accessing and using Je Sian Keith Herman's blog"
 # description: "Terms of Service Agreement for accessing and using Je Sian Keith Herman's blog"
 # author: Je Sian Keith Herman
-# image: "../assets/images/maarten-van-den-heuvel-8EzNkvLQosk-unsplash.jpg"
+# image: "../assets/images/maarten-van-den-heuvel-8EzNkvLQosk-unsplash.webp"
 # image-alt: A photo of colorful records in a shelf by Maarten van den Heuvel on Unsplash
 # categories: ["log"]
 # title-block-banner-color: "#FEFEFE"
-# title-block-banner: "../assets/images/maarten-van-den-heuvel-8EzNkvLQosk-unsplash-dim.jpg"
+# title-block-banner: "../assets/images/maarten-van-den-heuvel-8EzNkvLQosk-unsplash-dim.webp"
 citation: false
 comments: false
 ---
