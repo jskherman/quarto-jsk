@@ -6,8 +6,9 @@ public/
 .vscode/
 
 # Quarto local environment vars
-/_*.local
+_*.local
 .env
+*.env
 
 
 # Common Binary Files
@@ -27,3 +28,4 @@ public/
 
 # Firebase
 *.cache
+/_*.local

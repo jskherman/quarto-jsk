@@ -11,7 +11,7 @@ with open("_quarto.yml", "r") as file:
 
 # - Replace the variables
 for key, value in envvars.items():
-    config_data = config_data.replace(value, f"\"#{key}\"")
+    config_data = config_data.replace(value, f"${{{key}}}")
 
 # - Write the file out again
 with open("_quarto.yml", "w") as file:
