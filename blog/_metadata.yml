@@ -33,6 +33,6 @@ comments:
 
 filters:
   - lightbox
-  - code-filename
   - nutshell
+  # - code-filename
 lightbox: auto
