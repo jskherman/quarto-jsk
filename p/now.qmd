@@ -2,7 +2,7 @@
 date: 2020-02-02T00:00:01+0800
 title: JSK's Now Page
 # subtitle: A record of activities.
-description: A record of current activities.
+description: A record of JSK's current activities.
 author: Je Sian Keith Herman
 image: "../assets/images/maarten-van-den-heuvel-8EzNkvLQosk-unsplash.webp"
 image-alt: A photo of colorful records in a shelf by Maarten van den Heuvel on Unsplash
@@ -17,8 +17,8 @@ This is a **"now page"**. If you have your own site, [you could make one](http:/
 
 ---
 
-- `2022-07-08` I participated as a semi-finalist in the [SCG Bangkok Business Challenge @ Sasin 2022](https://bbc.sasin.edu/2022) at Bangkok, Thailand. I also presented at the [60-second pitch round (01:35:35)](https://fb.watch/ehcWDuPn5L/) for the Opening Reception.
+- `2022-09-26` I am currently reading through the Mushoku Tensei Light Novel Series. I am now at [volume 18](https://g.co/kgs/SS4fm1) of the official English-translated light novels.
 
-- `2022-07-29` I joined the National Nutrional Council's first ever Nutri-Hackathon in a team of four and [won first place](https://www.facebook.com/photo.php?fbid=426822102808547) with them.
+- `2022-08-15` The start of the 1st semester of academic year 2022–2023, and the 1st semester of my 4th year studying Chemical Engineering. It seems like things are ramping up and everyone seems eager for the face-to-face hybrid classes.
 
 [^1]: For past updates [see this page](past.qmd).
