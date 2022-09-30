@@ -1,7 +1,15 @@
 ---
-title: Page Not Found
+title: Page Not Found (ﾟДﾟ)!
+citation: false
+comments: false
 ---
 
-Oops (ﾟДﾟ), the page you requested cannot be found (maybe it was moved or renamed). We went too far and ended up in the void.
+Oops, the page you requested cannot be found (maybe it was moved or renamed).
 
-You may want to try searching to find the page's new location (if it exists). If you still can't find it, try the Internet Archive's Wayback Machine.
+We went too far and ended up in the void.
+
+You may want to try searching to find the page's new location (if it exists).
+
+If you still can't find it, try the Internet Archive's Wayback Machine.
+
+🔙 [Go back to the main page?](/)
