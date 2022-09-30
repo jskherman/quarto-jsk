@@ -10,3 +10,8 @@
     Strict-Transport-Security = "max-age=15768000; includeSubDomains; preload"
     Feature-Policy = "geolocation 'none'; midi 'none'; sync-xhr 'none'; microphone 'none'; camera 'none'; magnetometer 'none'; gyroscope 'none'; speaker 'none'; fullscreen 'none'; payment 'none'"
     Content-Security-Policy = "default-src 'none'; base-uri 'none'; form-action 'none'; frame-ancestors 'none'; img-src 'self'; media-src 'self'; object-src 'none'; script-src 'self'; style-src 'self'"
+
+# Redirects
+  from = "/*"
+  to = "/404.html"
+  status = 404
