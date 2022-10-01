@@ -29,3 +29,5 @@ _*.local
 # Firebase
 *.cache
 /_*.local
+
+/.luarc.json
