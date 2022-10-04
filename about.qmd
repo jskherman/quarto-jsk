@@ -32,11 +32,9 @@ reference-location: document
 
 {{< animate bounceInDown "Hi there! Welcome to my weblog. 👋" <duration=200ms> >}} <br>
 
-I'm [Je Sian Keith Herman](#firstname). This is the place where I share my thoughts, tools, interests, projects, showcases, experiences, etc. I am currently a 4th year student at [Bicol University][BU] studying [Chemical Engineering][ChE] and unconfirmed impostor (sus).
+I'm [Je Sian Keith Herman](#firstname) and I'm your average enjoyer of 🍨 ice cream, ☕ iced coffee, and 🍹 iced tea. This is the place where I share my thoughts, tools, interests, projects, showcases, experiences, etc. Check out the [blog](/blog.qmd) for some of it.
 
-I like coding and writing on the side[^1] when I have free time. My [blog](/blog.qmd) is one source where you can find most of my up-to-date written content.
-
-On an unrelated note, I like iced tea 🍹, iced coffee ☕, and ice cream 🍨 in no particular order.
+I'm currently a 4th year student at [Bicol University][BU] studying [Chemical Engineering][ChE]. I'm passionate about data, data visualization, and programming. I am a data-driven person and I love to find patterns and insights in data. I am also interested in creating visualizations to communicate my findings. I am a self-taught programmer (not quite there yet) and I enjoy creating programs to automate tasks and to make my work more efficient.
 
 > If you're looking for what I am up to these days, check out my **[Now page](/p/now.qmd)**.
 
