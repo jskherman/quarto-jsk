@@ -48,7 +48,7 @@ from datetime import datetime, timedelta
 
 ### Simulate clicks in the Browser with `selenium`
 
-For simulating clicks in a web browser, we are going to use `selenium`. We're also going to need to download a web driver such as Microsoft Edge's [webdriver](https://docs.microsoft.com/en-us/microsoft-edge/webdriver-chromium/) (of course, you need the corresponding browser [Microsoft Edge](https://www.microsoft.com/en-us/edge) to be installed). Since I'm on Windows, MS Edge comes right out of the box so I will use it, but feel free to use your own preferred browser that has a driver such as [Chrome](https://chromedriver.chromium.org/home) or [Firefox](https://github.com/mozilla/geckodriver/releases).
+For simulating clicks in a web browser, we are going to use `selenium`. We're also going to need to download a web driver such as Microsoft Edge's [webdriver](https://learn.microsoft.com/en-us/microsoft-edge/webdriver-chromium/) (of course, you need the corresponding browser [Microsoft Edge](https://www.microsoft.com/en-us/edge) to be installed). Since I'm on Windows, MS Edge comes right out of the box so I will use it, but feel free to use your own preferred browser that has a driver such as [Chrome](https://chromedriver.chromium.org/home) or [Firefox](https://github.com/mozilla/geckodriver/releases).
 
 Now set the path to where the webdriver executable is as well as the URL to the lottery data is located.
 
