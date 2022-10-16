@@ -1,14 +1,16 @@
 # Folders
 _site/
 public/
-# _extensions/
 .quarto/
-.vscode/
+# _extensions/
+!extensions.json
+
 
 # Quarto local environment vars
 _*.local
 .env
 *.env
+.vscode/settings.json
 
 
 # Common Binary Files
